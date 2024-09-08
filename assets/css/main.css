@@ -1466,3 +1466,9 @@ section,
 .starter-section {
   /* Add your styles here */
 }
+
+.hero .h1 {
+  margin: 0;
+  font-size: 700px;
+  font-weight: 800;
+}
